@@ -1,3 +1,3 @@
 ```
-Remove sourceCompatability from build.gradle
+Remove sourceCompatability from gradle files
 ```
